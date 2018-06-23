@@ -6,11 +6,11 @@
 body{
       
 	font-family:sans serif;
-	background-image:url('tab.jpg');
+	background-image:url('tab.png');
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-	background-position-x: 50%;
-        background-position-y: 90%;
+	background-position-x: 5%;
+        background-position-y: 9%;
 	text-align:center;
 	background-color:white;
 	}
